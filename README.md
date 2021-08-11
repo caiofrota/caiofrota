@@ -2,7 +2,12 @@
 	:rocket: Welcome to my GitHub :rocket:
 </h1>
 
-### Hi there 👋, I'm Caio Frota
+### Hi there 👋
+
+<hr>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-frota-179b9466/)](https://www.linkedin.com/in/caio-frota-179b9466/)
+ [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?&logo=telegram&logoColor=FFFFFF)](https://web.telegram.org/#/im?p=@caiofrota)
 
 <!--
 **caiofrota/caiofrota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

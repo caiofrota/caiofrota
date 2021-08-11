@@ -1,5 +1,5 @@
 <h1 align="center"> 
-	:octocat: Welcome to my GitHub :rocket:
+	:rocket: Welcome to my GitHub :rocket:
 </h1>
 
 ### Hi there 👋, I'm Caio Frota

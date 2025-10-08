@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Senior Sofware Engineer.<br>👯 I’m looking to collaborate on innovative projects<br>🤝 I’m looking for help with staying updated on the latest trends and best practices<br>🌱 I’m currently learning everything related to DevOps and AWS.<br>💬 Ask me about anything, I may not know but I'll talk anyways.<br>⚡ Fun fact: Home automation is one of my hobbies.
+🔭 I’m currently working as a Senior Sofware Engineer and Tech Lead.<br>👯 I’m looking to collaborate on innovative projects<br>🤝 I’m looking for help with staying updated on the latest trends and best practices<br>🌱 I’m currently learning everything related to DevOps and AWS.<br>💬 Ask me about anything, I may not know but I'll talk anyways.<br>⚡ Fun fact: Home automation is one of my hobbies.
 
 
 ## 🌐 Socials:

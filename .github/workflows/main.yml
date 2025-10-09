@@ -1,4 +1,4 @@
-name: Generates Commit Snake Animation SVG file
+name: Create Snake Animation SVG file
 
 on:
   schedule: # execute every 12 hours
